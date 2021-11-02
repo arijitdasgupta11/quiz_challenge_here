@@ -33,11 +33,11 @@ const qustn = [
     },
     {
         question: "Q5:What is your favorite sport?",
-        a:"document.getElementByid()",
-        b:"document.getElementById()",
-        c:"document.getElementByoutput()",
-        d:"document.getelementById()",
-        ans:"ans2"
+        a:"Carrom",
+        b:"Cricket",
+        c:"Football",
+        d:"Tennis",
+        ans:"ans1"
     },
     {
         question: "Q6:If you get an opportunity for an adventurous journey, who would you prefer?",
