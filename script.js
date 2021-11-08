@@ -1,83 +1,83 @@
 const qustn = [
     {
-        question: "Q1:ARIJIT's favourite season",
-        a:"Summer",
-        b:"Winter",
-        c:"Autumn",
-        d:"Rainy",
+        question: "Q1:AJAX stands for",
+        a:"Asymmetric Java And XML",
+        b:"Asynchronous JavaScript And XML",
+        c:"Asynchronous Java And HTML",
+        d:"There's no full form",
         ans:"ans2"
     },
     {
-        question: "Q2:Does he wear glasses?",
-        a:"Once upon a time",
-        b:"No",
-        c:"Sometimes",
-        d:"Yes",
-        ans:"ans3"
-    },
-    {
-        question: "Q3:Which type of wedding do you like?",
-        a:"Registree Office",
-        b:"Temple",
-        c:"Banquet Hall",
-        d:"Destination Wedding",
+        question: "Q2:In which programming language variables are hoisted?",
+        a:"C",
+        b:"FORTRAN",
+        c:"C++",
+        d:"JS",
         ans:"ans4"
     },
     {
-        question: "Q4:What is your favorite ice cream flavor?",
-        a:"Chocolate",
-        b:"Strawberry",
-        c:"Vanilla",
-        d:"Mango",
+        question: "Q3:Which tag is used to write the javascript code in html?",
+        a:"<style>",
+        b:"<js>",
+        c:"<script>",
+        d:"<javascript>",
+        ans:"ans3"
+    },
+    {
+        question: "Q4:Which is not a keyword in Javascript?",
+        a:"Var",
+        b:"Let",
+        c:"Const",
+        d:"Global",
         ans:"ans4"
     },
     {
-        question: "Q5:What is your favorite sport?",
-        a:"Carrom",
-        b:"Cricket",
-        c:"Football",
-        d:"Tennis",
-        ans:"ans1"
+        question: "Q5:Which one of the following DOM method does not exist in JS?",
+        a:"document.getElementByid()",
+        b:"document.getElementById()",
+        c:"document.getElementByoutput()",
+        d:"document.getelementById()",
+        ans:"ans2"
     },
     {
-        question: "Q6:If you get an opportunity for an adventurous journey, who would you prefer?",
-        a:"Friends",
-        b:"Life Partner",
-        c:"Family",
-        d:"Alone",
-        ans:"ans1"
-    },
-    {
-        question: "Q7:What your favorite movie genre?",
-        a:"Horror",
-        b:"Comedy",
-        c:"Thriller",
-        d:"Drama",
+        question: "Q6:which one of the following is used to compare to variables in JS?",
+        a:"equal",
+        b:"True",
+        c:"===",
+        d:"==",
         ans:"ans3"
     },
     {
-        question: "Q8:Arijit's relationship status:",
-        a:"Married",
-        b:"Single",
-        c:"In a relationship",
-        d:"Not interested",
+        question: "Q7:Which one is used to write the dynamic text on the html document?",
+        a:"innerText",
+        b:"innerHTML",
+        c:"a & b both",
+        d:"None of the above",
         ans:"ans3"
     },
     {
-        question: "Q9:Do you prefer the beach or the mountains?",
-        a:"Mountain",
-        b:"Beach",
-        c:"Both",
+        question: "Q8:How can you add a comment in a JavaScript??",
+        a:"//",
+        b:"<! >",
+        c:"#",
         d:"None of the above",
         ans:"ans1"
     },
     {
-        question: "Q10:Arijit's most memorable place till date is",
-        a:"Dhakuria Lake",
-        b:"South City",
-        c:"Patuli",
-        d:"Princep Ghat",
-        ans:"ans3"
+        question: "Q9:To give an alert in JS we use:?",
+        a:"addEventListener()",
+        b:"alert()",
+        c:"Alert()",
+        d:"None of the above",
+        ans:"ans2"
+    },
+    {
+        question: "Q10:How do you declare a JavaScript variable?",
+        a:"var c=0",
+        b:"variable c=0",
+        c:"Let c=0",
+        d:"cosnt c=0",
+        ans:"ans1"
     }
 
 ];
